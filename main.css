@@ -1,0 +1,92 @@
+#header {
+	font-family: helvetica;
+	font-weight: 60;
+	text-transform: uppercase;  
+	display: flex;
+	justify-content: center;
+}
+
+html {
+	background-color: black;
+}
+
+body {
+	margin: auto;
+	margin-left: 200px;
+	margin-right:200px;
+	background-color: white;
+	padding: 20px;
+}
+
+p {
+	font-family: helvetica;
+	font-weight: 10;
+	color: grey;
+	font-size: 10px;
+	display: flex;
+	justify-content: center;
+	text-transform: capitalize;
+}
+
+a {
+	font-family: helvetica;
+	font-weight: 10;
+	color: lightgrey;
+	font-size: 10px;
+	display: flex;
+	justify-content: center;
+	text-transform: none;
+	padding-bottom: 10px;
+	padding-top: 5px;
+}
+
+
+h6 {
+	text-transform: uppercase;
+	font-family: helvetica;
+	font-weight: 80;
+}
+
+.wrapper h6 {
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+	margin: 0px;
+	text-decoration: underline;
+	text-decoration-color: lightblue;
+	text-decoration-style: solid;
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+#email {
+	font-family: helvetica;
+	display: flex;
+	justify-content: center;
+	font-size: 15px;
+}
+
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: stretch;
+}
+
+div img {
+	margin-bottom: 0px;
+	width: 200px;
+}
+
+.wrapper {
+	padding: 15px;
+	width: 200px;
+}
+
+
+
+
+
+
+
